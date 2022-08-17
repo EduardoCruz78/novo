@@ -1,0 +1,49 @@
+body{
+    font-family: "Mavetica", "lucida Grande", sans-serif;
+    color: #3d3d3d;
+    width: 550 px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.familia-tupfeln{
+    width:275;
+    float: right;
+}
+figure img{
+    width:100% ;
+}
+
+.titulo{
+    background-color: #e1edf2;
+    padding: 10px;
+}
+
+.subtitulo{
+    border-bottom: 2px solid black;
+}
+figure{
+    text-align:center;
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+}body{
+    font-family: "Mavetica", "lucida Grande", sans-serif;
+    color: #3d3d3d;
+}
+
+.titulo{
+    background-color: #e1edf2;
+}
+
+.titulo{
+    border-bottom: 2px solid black;
+}
+figure{
+    text-align:center;
+    background-color: whitesmoke;
+    border: 1px solid lightgrey;
+    padding: 15 px;
+    margin: 30px;
+}
+.figurecaption{
+    margin-top: 10px;
+}
